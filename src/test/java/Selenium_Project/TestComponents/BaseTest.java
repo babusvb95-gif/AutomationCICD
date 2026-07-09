@@ -32,7 +32,7 @@ public class BaseTest {
 	public WebDriver driver;
 	public LoginPage loginPage;
 
-// Add New Comments
+
 
 	public WebDriver initializeDriver() throws IOException {
 		Properties prop = new Properties();
